@@ -12,10 +12,3 @@
 <a href="https://instagram.com/nvdeekay.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvdeekay.07" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvdekay&show_icons=true&locale=en&layout=compact" alt="nvdekay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvdekay&show_icons=true&locale=en" alt="nvdekay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay&" alt="nvdekay" /></p>
