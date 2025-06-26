@@ -4,7 +4,6 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <img src="./isocalendar.svg">
   <br>
   <a href="#" title="nvdekay">
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvdekay&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
