@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvdekay&show_icons=true&locale=en" alt="nvdekay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay&" alt="nvdekay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay" alt="nvdekay" /></p>
