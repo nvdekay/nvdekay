@@ -114,29 +114,6 @@ fun_fact: "I debug with coffee ☕ and fix bugs with more coffee"
 <div align="center">
   <img src="https://ghchart.rshah.org/409ba5/nvdekay" alt="Contribution Calendar" width="100%"/>
 </div>
-
----
-
-<!-- Animated Snake Contribution Graph -->
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nvdekay/nvdekay/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 </div>
