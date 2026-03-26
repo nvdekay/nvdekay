@@ -27,7 +27,7 @@ name: Nguyen Vu Dang Khanh
 location: Vietnam 🇻🇳
 role: Software Engineer
 focus: ["Full-Stack Dev", "Cloud Architecture", "Clean Code"]
-currently_learning: ["System Design", "AI/ML Integration"]
+currently_learning: ["System Design", "AI Integration"]
 fun_fact: "I debug with coffee ☕ and fix bugs with more coffee"
 ```
 
