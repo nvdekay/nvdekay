@@ -86,15 +86,6 @@ fun_fact: "I debug with coffee ☕ and fix bugs with more coffee"
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvdekay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvdekay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 ### 🔥 Streak Statistics
