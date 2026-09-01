@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Vu%20Dang%20Khanh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer&descAlignY=55&descSize=18"/>
 
