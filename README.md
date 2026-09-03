@@ -22,10 +22,4 @@ Hey there! I'm **Nguyen Vu Dang Khanh**, a passionate Software Engineer enthusia
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvdekay&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</div>
-
 </div>
