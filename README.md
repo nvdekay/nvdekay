@@ -6,8 +6,6 @@ Hey there! I'm **Nguyen Vu Dang Khanh**, a passionate Software Engineer enthusia
 
 ## 🏆 GitHub Achievements
 
-### 🔥 Streak Statistics
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvdekay&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
