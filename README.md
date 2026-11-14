@@ -27,11 +27,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nvdekay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nvdekay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</div>
-
 ---
 
 <div align="center">
