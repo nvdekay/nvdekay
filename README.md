@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nvdekay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
----
 
 <div align="center">
   <sub>⭐ Thanks for visiting — have a great day!</sub>
